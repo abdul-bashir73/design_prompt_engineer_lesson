@@ -63,4 +63,4 @@ Institutional affiliations and designer attributions are supported by museum col
 
 ## Reflection
 
-While drafting, the AI-generated description referenced institutional influence and designer attributions. I verified founding dates, key figures, and typographic principles using museum collection records rather than assuming the model was correct. This process reinforced that AI outputs often summarize accepted narratives but still require confirmation against primary or institutional sources. Verification ensured historical accuracy and prevented unsourced claims from remaining in the final submission.
+While drafting, description referenced institutional influence and designer attributions. I verified founding dates, key figures, and typographic principles using museum collection records rather than assuming the model was correct. This process reinforced that the  outputs often summarize accepted narratives but still require confirmation against primary or institutional sources. Verification ensured historical accuracy and prevented unsourced claims from remaining in the final submission.
