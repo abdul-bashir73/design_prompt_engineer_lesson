@@ -1,3 +1,14 @@
+# My Portfolio Site
+
+Live Website:
+https://abdul-bashir73.github.io/design_prompt_engineer_lesson/
+For this assignment, I followed a structured, spec-driven workflow instead of prompting for a final answer immediately. In the exploration phase, I used AI to generate design direction options, content structure ideas, and possible tech stacks. Rather than choosing based on aesthetics alone, I evaluated tradeoffs and selected an approach that emphasized clarity and credibility.
+
+During convergence, I locked in my design direction, content model, and deployment method before building. This prevented drift and constant redesign. Writing a clear implementation spec helped define what “done” meant, which reduced confusion during development.
+
+I then worked in small sprints. Each sprint had a specific goal, defined scope, and acceptance criteria. After implementing changes, I verified them against my checklist. I also used critique prompts to improve layout and structure instead of randomly “making it better.”
+
+What I learned is that AI is powerful for iteration and refinement, but only when the target is clearly defined. Without a spec, the output drifts. With constraints and checkpoints, the process becomes reliable. The biggest shift for me was thinking like an editor and systems designer instead of just a prompter.
 # Design Curator Cards
 
 > **You are building the workflow you'll use all semester.**
